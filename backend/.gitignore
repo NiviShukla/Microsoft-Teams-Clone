@@ -1,0 +1,6 @@
+.vscode
+Pipfile
+Pipfile.lock
+__pycache__/
+celerybeat-schedule
+media
