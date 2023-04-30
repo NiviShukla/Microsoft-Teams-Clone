@@ -1,6 +1,5 @@
 # Microsoft-Teams-Clone
 
-Created by - Nivesh Shukla
 
 Microsoft Teams Clone is a project built for Microsoft Engage'21 program. This is a platform through which different users can connect with each other through voice calls or video calls or chat, collaborate with each other and keep track of their completed and pending tasks. This application provides the user with the option to either collaborate in team or have one-to-one interation with their friends or family or colleagues.
 
